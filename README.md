@@ -16,7 +16,7 @@ Tested on OpenBSD 7.5 / -current.
  - Access Point: ASUS RT-AC68U
  - Modem: ARRIS Surfboard S33 DOCSIS 3.1
 
-Eventually I will probably upgrade the router to a [Protectli Vault](https://protectli.com/).
+Eventually I may switch the router to a [Protectli Vault](https://protectli.com/).  I want to use [coreboot](https://www.coreboot.org/) however the Protectli devices are expensive and/or have slower CPUs.
 
 ## Other Resources
 
