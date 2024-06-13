@@ -10,6 +10,8 @@ Tested on OpenBSD 7.5 / -current.
  - Unbound for internet/local DNS resolution (DNS-over-TLS)
  - WiFi via attached access point
 
+ Soon I will add IPv6 support specifically using [dhcp6leased](https://man.openbsd.org/dhcp6leased.8) for assignments.
+
 ## Hardware
 
  - Router: 4x i226-V 2.5G LAN 12th Gen Intel N100 (8GB DDR5, 128GB NVMe)
