@@ -5,12 +5,11 @@ Configuration files for my [OpenBSD](https://www.openbsd.org) router.  The best 
 Tested on OpenBSD 7.5 / -current.
 
  - [pf](https://www.openbsd.org/faq/pf/) firewall
+ - IPv6 ([dhcp6leased](https://man.openbsd.org/dhcp6leased.8), [rad](https://man.openbsd.org/rad.8))
  - DHCP/NAT
  - NTP
  - Unbound for internet/local DNS resolution (DNS-over-TLS)
  - WiFi via attached access point
-
- Soon I will add IPv6 support specifically using [dhcp6leased](https://man.openbsd.org/dhcp6leased.8) for assignments.
 
 ## Hardware
 
