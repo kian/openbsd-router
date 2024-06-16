@@ -1,1 +1,2 @@
 inet 10.0.2.1 255.255.255.0 NONE description "Aria Direct"
+inet6 alias fda3:650d:dbbd:2::1 64

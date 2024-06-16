@@ -1,2 +1,5 @@
 dhcpd_flags=
+dhcpleased_flags=
+dhcp6leased_flags=
+rad_flags=
 unbound_flags=
