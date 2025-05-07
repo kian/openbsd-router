@@ -1,6 +1,6 @@
 # OpenBSD router configuration
 
-Configuration files for my [OpenBSD](https://www.openbsd.org) router.  The best operating system for the job, hands down.
+Configuration files for my [OpenBSD](https://www.openbsd.org) router.  The best operating system for the job, hands down.  Inspired by [jaywillikers/openbsd-router](https://github.com/jwillikers/openbsd-router).
 
 Tested on OpenBSD 7.5 / -current.
 
@@ -34,7 +34,7 @@ If you want an interactive console, modify `/etc/ttys` as [described in the Open
 tty00	"/usr/libexec/getty std.9600"	vt220 	on  secure
 ```
 
-For accessing the device from MacOS, find the device name and use the built in `cu`:
+To access the device from MacOS, find the device name and use the built in `cu`:
 
 ```
 $ ls -al /dev/tty.usbserial*
