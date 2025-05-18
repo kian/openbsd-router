@@ -49,3 +49,4 @@ On Windows, you can use [plink](https://www.chiark.greenend.org.uk/~sgtatham/put
  - https://github.com/jwillikers/openbsd-router
  - https://www.openbsd.org/faq/pf/example1.html
  - https://www.openbsd.org/faq/current.html
+ - https://kirill.korins.ky/articles/edgerouter-4-under-openbsd-with-failover-wan/
